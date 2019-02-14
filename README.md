@@ -8,6 +8,8 @@ etcdadm is a command-line tool for operating an etcd cluster. It makes it easy t
 </p>
 
 ## Table of Contents
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Froopakparikh%2Fetcdadm.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Froopakparikh%2Fetcdadm?ref=badge_shield)
+
 
   - [Getting Started](#getting-started)
     - [Installing](#installing)
@@ -82,3 +84,6 @@ On its own, etcdadm does not automate cluster operation, but a cluster orchestra
 ## Questions?
 
 For more information reach out to [etcdadm slack channel](https://kubernetes.slack.com/messages/CEM0AT9GW)
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Froopakparikh%2Fetcdadm.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Froopakparikh%2Fetcdadm?ref=badge_large)
